@@ -1,15 +1,15 @@
-# README
+# iOS додаток з бюджетування коштів
 
-#### Вітаю!
+### Вітаю!
 
 ##### Це мій зручний додаток з бюджетування коштів "Фінансовий помічник". За допомогою такого додатку, користувачі зможуть відстежувати всі свої витрати та доходи та розділяти гроші на необхідні категорії. Додаток сприятиме спрощенню процесу обліку фінансів користувачів та отриманню повного контролю над ними. Застосунок розроблявся в середовищі розробки Xcode та написаний на мові програмування Swift.
 ##### В своєму додатку я вирішив використовувати архітектуру MVC. Для зберігання об’єктів типу HistoryEntity я використовую CoreData.
 
-#### Інтерфейс додатку:
-<img width="308" alt="appFunctionalityScreen" src="https://github.com/n1kitka/Expense-Tracker-iOS/assets/98713485/2cc1f0f7-e18e-4052-938d-871ee0439540">
+### Інтерфейс додатку:
+<img width="250" alt="appFunctionalityScreen" src="https://github.com/n1kitka/Expense-Tracker-iOS/assets/98713485/2cc1f0f7-e18e-4052-938d-871ee0439540">
 
 #### На екрані iPhone 11 він буде виглядати наступним чином (розташований під додатком Карти):
-<img width="308" alt="appIcon" src="https://github.com/n1kitka/Expense-Tracker-iOS/assets/98713485/30b7e815-2e5c-470a-8fb2-1ca698272fac">
+<img width="250" alt="appIcon" src="https://github.com/n1kitka/Expense-Tracker-iOS/assets/98713485/30b7e815-2e5c-470a-8fb2-1ca698272fac">
 
 #### При вході в додаток на екрані запуску на чорному фоні зображена його назва та логотип:
 <img width="308" alt="launchScreenApp" src="https://github.com/n1kitka/Expense-Tracker-iOS/assets/98713485/488430ef-6576-4ceb-9b31-3cd2c25b906f">
